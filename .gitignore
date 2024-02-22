@@ -102,3 +102,7 @@ docker/.env
 .vercel
 
 .pnpm-store/
+
+settings.json 
+.vscode
+
